@@ -1,0 +1,2 @@
+6569260e99684cc2d22ec37b29c0f4f69b123f7ff7b615cd0cf2e801f30af030 LICENSE.txt
+3930f63cf8ba61585a6941cfb4af0c01f7ef36181ef6e2dde0ebbd1da3a8aac9 WiDSDatathonOverview.pdf
